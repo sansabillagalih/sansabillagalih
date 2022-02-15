@@ -79,8 +79,8 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sansabillagalih&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sansabillagalih&hide_border=true&theme=radical" />
 </p>
 
 
@@ -93,7 +93,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ---
 
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sansabillagalih&hide_border=true&theme=redical)-->
+<!--![Galih's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sansabillagalih&hide_border=true&theme=redical)-->
 
 
 
@@ -104,7 +104,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ---
 
 <p align="center">
-   <img src="https://github.com/Asmit2952/sansabillagalih/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/sansabillagalih/sansabillagalih/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
 
 Here are some ideas to get you started:
