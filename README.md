@@ -1,10 +1,11 @@
-### Hi there 👋
-
-# Hey!! Great to see you here! <img src="/src/wave.gif" width="30px">
-
-<a href="https://asmit2952.github.io/"><img src="/src/profile_banner.gif"></a>
-
-My name is Galih Sansabila and I"m a Software Engineer who is passionate about building tech, teaching and learning new technologies 
+<h1 align="center">Hi , I'm Galih Sansabila <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=College+Student;Android+Developer;Crypto%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things;Nice%20To%20See%20You%20Here&center=true&width=500&height=50&font=georgia"></a>
+</p>
+<hr/>
+<h4 align="center">I am a Student at International Women University. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills.</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Galih's%20Profile%20Views%20&color=dc143c&style=plastic" alt="galih" /> </p>
 
 * 🧑🏻‍💻 Tech enthusiast, designer & an open-source advocate. 
 
@@ -71,32 +72,40 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+## 🔝 Most used languages
+
+  <p align="center" ><img  alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansabillagalih&layout=compact&hide_border=true&theme=radical" />
+
 ## 📈 Stats
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Asmit2952&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit2952&hide_border=true&theme=radical" />
 </p>
->
 
-## 🔝 Most used languages
 
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sansabillagalih&layout=compact&hide_border=true&theme=radical" />
+ 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sansabillagalih&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+
+
+
 
 ---
 
 
 <!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=sansabillagalih&hide_border=true&theme=redical)-->
 
+
+
+
+<!--
+**sansabillagalih/sansabillagalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ---
 
 <p align="center">
    <img src="https://github.com/Asmit2952/sansabillagalih/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
-
-
-<!--
-**sansabillagalih/sansabillagalih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
