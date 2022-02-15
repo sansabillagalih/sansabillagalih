@@ -85,7 +85,7 @@ When I am not coding, you'll find me lifting weights in the gym or at my desk sk
 
 
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sansabillagalih&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sansabillagalih&hide_border=true&theme=redical)
 
 
 
